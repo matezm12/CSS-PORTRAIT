@@ -19,3 +19,15 @@ p {
     -webkit-background-clip: text;
     -webkit-text-fill-color: rgba(255, 255, 255, 0.1);
 }
+
+.WebContainer {
+    width: 100%;
+    height: auto;
+}
+
+.articles {
+    width: 90%;
+    /*Takes 90% width from WebContainer*/
+    height: auto;
+    margin: auto;
+}
